@@ -1,5 +1,9 @@
 # Capstone - Machine Learning Vehicle Simulator
 
+## About the Application
+
+![Vehicle Simulator Poster](https://raw.githubusercontent.com/PaulWarnick21/Machine-Learning-Vehicle-Simulator/master/Machine%20Learning%20Vehicle%20Simulator%20Poster.PNG)
+
 ## Build Instructions
 
 In order to run the project clone this repo using git or download directly to your computer
